@@ -4,7 +4,9 @@
       <router-link to="/">HOMEEE</router-link> |
       <router-link to="/about">ABOUT</router-link>
     </div>
-    <router-view/>
+    <div class="container">
+      <router-view/>
+    </div>
   </div>
 </template>
 
