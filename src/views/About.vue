@@ -39,6 +39,201 @@
         </div>
       </div>
     </div>
+    <div class="col-md-4 col-sm-6">
+      <div class="at-property-item at-col-default-mar animated fadeInUpShort slow go">
+        <div class="at-property-img">
+          <img src="../assets/image.jpg" alt>
+          <div class="at-property-overlayer"></div>
+          <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">
+            View
+            Details
+          </a>
+          <h4>For Sale</h4>
+          <h5>$59,999</h5>
+        </div>
+        <div class="at-property-dis">
+          <ul>
+            <li>
+              <i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft
+            </li>
+            <li>
+              <i class="fa fa-bed" aria-hidden="true"></i> 6
+            </li>
+            <li>
+              <i class="fa fa-bath" aria-hidden="true"></i> 3
+            </li>
+          </ul>
+        </div>
+        <div class="at-property-location">
+          <h4>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="properties-details.html">
+              New Superb
+              Villa
+            </a>
+          </h4>
+          <p>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <div class="at-property-item at-col-default-mar animated fadeInUpShort slow go">
+        <div class="at-property-img">
+          <img src="../assets/image.jpg" alt>
+          <div class="at-property-overlayer"></div>
+          <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">
+            View
+            Details
+          </a>
+          <h4>For Sale</h4>
+          <h5>$59,999</h5>
+        </div>
+        <div class="at-property-dis">
+          <ul>
+            <li>
+              <i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft
+            </li>
+            <li>
+              <i class="fa fa-bed" aria-hidden="true"></i> 6
+            </li>
+            <li>
+              <i class="fa fa-bath" aria-hidden="true"></i> 3
+            </li>
+          </ul>
+        </div>
+        <div class="at-property-location">
+          <h4>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="properties-details.html">
+              New Superb
+              Villa
+            </a>
+          </h4>
+          <p>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <div class="at-property-item at-col-default-mar animated fadeInUpShort slow go">
+        <div class="at-property-img">
+          <img src="../assets/image.jpg" alt>
+          <div class="at-property-overlayer"></div>
+          <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">
+            View
+            Details
+          </a>
+          <h4>For Sale</h4>
+          <h5>$59,999</h5>
+        </div>
+        <div class="at-property-dis">
+          <ul>
+            <li>
+              <i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft
+            </li>
+            <li>
+              <i class="fa fa-bed" aria-hidden="true"></i> 6
+            </li>
+            <li>
+              <i class="fa fa-bath" aria-hidden="true"></i> 3
+            </li>
+          </ul>
+        </div>
+        <div class="at-property-location">
+          <h4>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="properties-details.html">
+              New Superb
+              Villa
+            </a>
+          </h4>
+          <p>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <div class="at-property-item at-col-default-mar animated fadeInUpShort slow go">
+        <div class="at-property-img">
+          <img src="../assets/image.jpg" alt>
+          <div class="at-property-overlayer"></div>
+          <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">
+            View
+            Details
+          </a>
+          <h4>For Sale</h4>
+          <h5>$59,999</h5>
+        </div>
+        <div class="at-property-dis">
+          <ul>
+            <li>
+              <i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft
+            </li>
+            <li>
+              <i class="fa fa-bed" aria-hidden="true"></i> 6
+            </li>
+            <li>
+              <i class="fa fa-bath" aria-hidden="true"></i> 3
+            </li>
+          </ul>
+        </div>
+        <div class="at-property-location">
+          <h4>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="properties-details.html">
+              New Superb
+              Villa
+            </a>
+          </h4>
+          <p>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <div class="at-property-item at-col-default-mar animated fadeInUpShort slow go">
+        <div class="at-property-img">
+          <img src="../assets/image.jpg" alt>
+          <div class="at-property-overlayer"></div>
+          <a class="btn btn-default at-property-btn" href="properties-details.html" role="button">
+            View
+            Details
+          </a>
+          <h4>For Sale</h4>
+          <h5>$59,999</h5>
+        </div>
+        <div class="at-property-dis">
+          <ul>
+            <li>
+              <i class="fa fa-object-group" aria-hidden="true"></i> 520 sq ft
+            </li>
+            <li>
+              <i class="fa fa-bed" aria-hidden="true"></i> 6
+            </li>
+            <li>
+              <i class="fa fa-bath" aria-hidden="true"></i> 3
+            </li>
+          </ul>
+        </div>
+        <div class="at-property-location">
+          <h4>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            <a href="properties-details.html">
+              New Superb
+              Villa
+            </a>
+          </h4>
+          <p>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> 123 1st Width Road, , summit, new york
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 <style>
